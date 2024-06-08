@@ -1,0 +1,6 @@
+@demoProjectUsingFunction_pgSql_HostAddress = http://localhost:5115
+
+GET {{demoProjectUsingFunction_pgSql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

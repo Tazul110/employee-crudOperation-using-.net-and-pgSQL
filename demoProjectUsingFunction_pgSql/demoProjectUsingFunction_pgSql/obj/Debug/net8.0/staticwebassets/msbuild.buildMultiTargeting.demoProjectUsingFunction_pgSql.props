@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\demoProjectUsingFunction_pgSql.props" />
+</Project>
